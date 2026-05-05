@@ -53,9 +53,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=8B0000&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vingvolten-ux&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=8B0000&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vingvolten-ux&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=FFFFFF"/>
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=dark&background=0d1117&ring=FFD700&fire=8B0000&currStreakLabel=FFD700&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vingvolten-ux&theme=dark&background=0d1117&ring=FFD700&fire=8B0000&currStreakLabel=FFD700&hide_border=true"/>
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/vingvolten-ux/vingvolten-ux/blob/output/github-contribution-grid-snake.svg">
 
 </div>
 
@@ -83,12 +83,12 @@
 
 ## 🏰 Featured Relics
 
-| Project | Description |
-|--------|-------------|
+| Project                 | Description                         |
+| ----------------------- | ----------------------------------- |
 | ⚔️ Kingdom Task Manager | Productivity system forged in React |
-| 🐉 Dungeon Engine | Fantasy game mechanics and systems |
-| 📜 Royal Portfolio | Personal showcase of noble works |
-| 🛡️ Guild Website | Official Code Monkeys headquarters |
+| 🐉 Dungeon Engine       | Fantasy systems and mechanics       |
+| 📜 Royal Portfolio      | Showcase of crafted works           |
+| 🛡️ Guild Website       | Headquarters of the Code Monkeys    |
 
 ---
 
@@ -97,6 +97,41 @@
 ```text
 "We do not fear errors.
 We do not flee failed builds.
+We endure the darkness of debugging.
+
 We commit.
 We push.
-We conquer."
+We deploy.
+
+We rise again after every failure.
+We sharpen our craft with every line written.
+
+We are not mere coders.
+
+We are builders of realms.
+We are slayers of bugs.
+
+We are the Code Monkeys Guild."
+```
+
+---
+
+## 📬 Send Ravens
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email-Royal_Mail-darkred?style=for-the-badge\&logo=gmail)](mailto:vingvolten@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Guild_Hall-5865F2?style=for-the-badge\&logo=discord)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noble_Alliance-blue?style=for-the-badge\&logo=linkedin)]
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚔️ May Your Code Compile and Your Enemies Segfault ⚔️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:1a1a1a,100:000000&height=120&section=footer"/>
+
+</div>
