@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Welcome+to+the+Kingdom+of+Code;Bug+Slayer+%7C+Realm+Builder+%7C+Guild+Leader;Forging+Projects+in+the+Dark+Ages+of+Debugging" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:4b0000,100:8b0000&height=220&section=header&text=⚔️%20Code%20Monkeys%20Guild%20⚔️&fontSize=38&fontColor=FFD700&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:4b0000,100:8b0000&height=220&section=header&text=⚔️%20EMBER%20KINGDOM%20Guild%20⚔️&fontSize=38&fontColor=FFD700&animation=fadeIn" />
 
 </div>
 
