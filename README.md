@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ CODE MONKEYS GUILD ⚔️
+# ⚔️ THE EMBER KINGDOM⚔️
 
 ## 🏰 The Realm of Ephraim Ross 🏰
 
