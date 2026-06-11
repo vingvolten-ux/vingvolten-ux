@@ -1,115 +1,152 @@
-<div align="center">
+# Ephraim Ross
 
-# ⚔️ THE EMBER KINGDOM⚔️
+### Software Engineering Student | AI Enthusiast | Cybersecurity Learner | Future Technical Founder
 
-## 🏰 The Realm of Ephraim Ross 🏰
+Computer Science & Software Engineering student at BIUST with interests in Artificial Intelligence, Cybersecurity, Full-Stack Development, and Game Development.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Welcome+to+the+Kingdom+of+Code;Bug+Slayer+%7C+Realm+Builder+%7C+Guild+Leader;Forging+Projects+in+the+Dark+Ages+of+Debugging" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:4b0000,100:8b0000&height=220&section=header&text=⚔️%20EMBER%20KINGDOM%20Guild%20⚔️&fontSize=38&fontColor=FFD700&animation=fadeIn" />
-
-</div>
+I am currently focused on building practical software projects, strengthening my engineering foundations, and developing the skills required to create impactful systems and products.
 
 ---
 
-## 📜 About The Knight
+## Current Focus Areas
 
-> Greetings, traveler.
-> I am **Ephraim Ross**, founder of the **Code Monkeys Guild**, forging modern systems with medieval precision.
-
-* 🏰 Building web applications
-* ⚔️ Slaying bugs in cursed code
-* 📚 Learning backend sorcery
-* 👑 Growing a dev guild
-* 🐉 Creating games & systems
+* Software Engineering
+* Artificial Intelligence
+* Cybersecurity
+* Full-Stack Web Development
+* System Design
+* Technical Leadership
 
 ---
 
-## 🛡️ Skills of the Kingdom
+## Education
 
-<div align="center">
+**Botswana International University of Science and Technology (BIUST)**
 
-![HTML5](https://img.shields.io/badge/HTML5-Iron_Forge-darkred?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Royal_Style-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Lightning_Magic-gold?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-Spirit_Core-61DAFB?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Forest_Engine-green?style=for-the-badge\&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-Data_Vault-grey?style=for-the-badge\&logo=mysql)
+Bachelor's Degree in Computer Science & Software Engineering
 
-</div>
+Expected Graduation: **2028**
 
 ---
 
-## ⚔️ Current Quests
+## Featured Projects
 
-* 🏰 Task manager system
-* 🐉 Game development
-* 🔮 Backend mastery
-* ⚒️ Open-source projects
+### NIA AI Assistant
 
----
+Personal AI assistant focused on productivity, planning, organization, and long-term automation.
 
-## 🐲 Guild Statistics
+**Status:** Research & Planning
 
-<div align="center">
+### The Code Order
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vingvolten-ux&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+Developer community platform focused on learning, collaboration, and growth.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vingvolten-ux&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+**Status:** In Development
 
-</div>
+### Cybersecurity Toolkit
 
----
+Collection of security-focused utilities, experiments, and learning projects.
 
-## 🔥 Battle Streak
+**Status:** Planning
 
-<div align="center">
+### Personal Portfolio Website
 
-<img src="https://streak-stats.demolab.com?user=vingvolten-ux&theme=dark&hide_border=true"/>
+Professional portfolio showcasing projects, skills, and long-term goals.
 
-</div>
+**Status:** Active
 
----
+### Hollow Knight Inspired Game
 
-## 🐍 Serpent of Contributions
+Exploration-focused action adventure game emphasizing worldbuilding and progression.
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vingvolten-ux/vingvolten-ux/output/github-contribution-grid-snake.svg">
-
-</div>
+**Status:** Concept Development
 
 ---
 
-## 🏰 Featured Relics
+## Technical Skills
 
-| Project                 | Description         |
-| ----------------------- | ------------------- |
-| ⚔️ Kingdom Task Manager | Productivity system |
-| 🐉 Dungeon Engine       | Game mechanics      |
-| 📜 Royal Portfolio      | Personal showcase   |
+### Languages
+
+* Python
+* JavaScript
+* Java
+* C++
+
+### Frontend
+
+* React
+* HTML
+* CSS
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Tools
+
+* Git
+* GitHub
+* Linux
+* VS Code
 
 ---
 
-## 👑 Guild Oath
+## Long-Term Vision
 
-```text
-We do not fear errors.
-We do not flee failed builds.
+My goal is to build an ecosystem combining:
 
-We commit.
-We push.
-We deploy.
+* Software Products
+* Artificial Intelligence Systems
+* Developer Communities
+* Interactive Games
 
-We rise stronger with every bug defeated.
-
-We are the Code Monkeys Guild.
-```
+while growing into a highly capable software engineer and technical leader.
 
 ---
 
-<div align="center">
+## Current Learning Roadmap
 
-⚔️ May your code compile and your enemies segfault ⚔️
+2025–2026
 
-</div>
+* Strengthen programming fundamentals
+* Build portfolio projects
+* Improve frontend and backend development
+
+2026–2027
+
+* Advanced cybersecurity learning
+* AI integration projects
+* Open source contributions
+
+2027–2028
+
+* Large-scale software systems
+* Internship and industry experience
+* Technical specialization
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vingvolten-ux\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vingvolten-ux\&layout=compact\&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+LinkedIn:
+[www.linkedin.com/in/ephraim-ross-b998b32b6](http://www.linkedin.com/in/ephraim-ross-b998b32b6)
+
+GitHub:
+https://github.com/vingvolten-ux
+
+Email:
+[rossephraim228@gmail.com](mailto:rossephraim228@gmail.com)
+
+---
+
+*"Building systems, learning continuously, and creating technology that matters."*
