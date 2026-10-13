@@ -99,7 +99,7 @@ A self-assessed rating of my projects — based on completeness, complexity, and
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=vingvolten-ux&show_icons=true&hide_border=true&bg_color=39FF14&title_color=39FF14&icon_color=39FF14&text_color=7CFFCB&border_color=39FF14&rank_icon=github&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=vingvolten-ux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=7CFFCB&border_color=39FF14&rank_icon=github&count_private=true"/>
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vingvolten-ux&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=7CFFCB&border_color=39FF14"/>
 </p>
 
